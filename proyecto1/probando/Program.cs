@@ -1,8 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, Erick!");
 
-{
-    "ConnectionStrings": {
-        "DefaultConnection": "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;"
-    }
-}
+string stripe_api_key="sk_test_545dsd52sdsd2sd";
